@@ -6,7 +6,8 @@ Movement
 Robotic arm
   4/5 miniservos
 Detectors
-  4- sensors IR /4 - sound sensors  mmWave24 GHz
+  2/3 sensors mmWave24 GHz
+  1 sensor IR
   1- color sensor
   1- Black line detector
 Box
