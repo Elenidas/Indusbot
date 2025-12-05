@@ -9,6 +9,9 @@ Detectors
   4- sensors IR /4 - sound sensors  mmWave24 GHz
   1- color sensor
   1- Black line detector
+Box
+  1-miniservo
+  2-gears
 1- Buzzer
 1- Bluetooh module
 1-battery
