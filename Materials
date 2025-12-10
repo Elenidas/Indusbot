@@ -1,0 +1,23 @@
+1 -controler board (arduino mega)
+Movement
+  2- continue-rotating servos
+  4- Free balls
+  2- wheels
+Robotic arm
+  2- microservos
+  2- nanoservos
+Detectors
+  2/3 sensors mmWave24 GHz
+  1 sensor IR
+  1- color sensor
+  1- Black line detector
+Box
+  1-miniservo
+  2-gears
+1- Buzzer
+1- Bluetooh module
+1-battery
+1-oled matrix
+2-led
+2/3-buttons
+cables
