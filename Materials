@@ -4,7 +4,8 @@ Movement
   4- Free balls
   2- wheels
 Robotic arm
-  4/5 miniservos
+  2- microservos
+  2- nanoservos
 Detectors
   2/3 sensors mmWave24 GHz
   1 sensor IR
