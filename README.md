@@ -1,5 +1,5 @@
 # Indusbot
-A little roobot that replies some of the features of an industry robot with some different add-ons.
+A little robot that replies some of the features of an industry robot with some different add-ons.
 
 
 This robot has to have industry features as well as perform well on different tests such as sumo or following a circuit.
